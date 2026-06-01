@@ -149,14 +149,3 @@ The AI generated a formal event description suitable for promotional materials.
 # Overall Learning
 
 Through these experiments, I observed that providing more context, constraints, and specific details in a prompt results in more relevant, personalized, and professional AI-generated outputs. This demonstrated the importance of prompt engineering in controlling the quality and usefulness of AI responses.
-
-## Practical Application
-
-I also built a Python-based AI Tournament Announcement Generator using the Gemini API.
-
-Concepts applied:
-- Prompt Engineering
-- API Keys
-- Request & Response Handling
-- JSON Data Format
-- AI Integration Workflow
